@@ -1,5 +1,5 @@
-# 山东理工大学人工智能实验室
+# Artificial Intelligence Laboratory, Shandong University of Technology
 
-本网页为山东理工大学人工智能实验室信息化综合教育实践平台，旨在服务实验室同学能够更好得进行日常学习，并且给实验室之外的同学提供了一个解人工智能实验室的互动平台。
+This webpage is an information-based comprehensive education practice platform for the Artificial Intelligence Laboratory of Shandong University of Technology. It aims to help laboratory students better carry out daily learning and provide an interactive platform for students outside the laboratory to understand the Artificial Intelligence Laboratory.
 
-本项目正在开发中...
+This project is under development...
