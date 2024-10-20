@@ -91,13 +91,13 @@ body{
     color: white;
     font-size: 0.2rem;
     bottom: 0.5rem;
-    background-color: red;
-    border-radius: 2.5rem;
+    /* background-color: red; */
+    border-radius: 2rem;
     background-image: linear-gradient(to right,
-                    #03a9f4,
-                    #f331a5,
-                    #ffeb3b,
-                    #09a8f4);
+                    #b5e4fa,
+                    #fec0e5,
+                    #f9f0a2,
+                    #a1dbf7);
     /*背景渐变色大小*/
     background-size: 400%;
     z-index: 1;
@@ -112,16 +112,16 @@ body{
     bottom: -5px;
     left: -5px;
     right: -5px;
-    border-radius: 2.5rem;
+    border-radius: 2rem;
     background-image: linear-gradient(to right,
-                    #03a9f4,
-                    #f331a5,
-                    #ffeb3b,
-                    #09a8f4);
+                    #b5e4fa,
+                    #fec0e5,
+                    #f9f0a2,
+                    #a1dbf7);
     /*背景渐变色大小*/
-    background-size: 400%;
+    background-size: 300%;
     z-index: -1;
-    filter: blur(40px);
+    filter: blur(20px);
 }
 
 .button:hover{
