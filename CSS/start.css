@@ -18,7 +18,7 @@ body{
     /* background: linear-gradient(); */
     /* background-color: black; */
     /* background-image: url(../IMG/1.png); */
-    background: linear-gradient(to bottom, rgb(152, 229, 255), white 90%);
+    background: linear-gradient(to bottom, rgb(103, 215, 253), white 90%);
     display: flex;
     width: 100%;
     height: 5.2rem;
@@ -95,14 +95,15 @@ body{
     border-radius: 2rem;
     background-image: linear-gradient(to right,
                     #b5e4fa,
-                    #fec0e5,
-                    #f9f0a2,
-                    #a1dbf7);
+                    #fdb6e1,
+                    #fcf29a,
+                    #9bdbfb);
     /*背景渐变色大小*/
     background-size: 400%;
     z-index: 1;
     /* opacity: 1; */
     animation: op 2s 1;
+    /* box-shadow: inset 10px 10px 10px rgba(211, 210, 210, 0.9); */
 }
 
 .button::before{
@@ -115,13 +116,13 @@ body{
     border-radius: 2rem;
     background-image: linear-gradient(to right,
                     #b5e4fa,
-                    #fec0e5,
-                    #f9f0a2,
-                    #a1dbf7);
+                    #fdb6e1,
+                    #fcf29a,
+                    #9bdbfb);
     /*背景渐变色大小*/
-    background-size: 300%;
+    background-size: 400%;
     z-index: -1;
-    filter: blur(20px);
+    filter: blur(30px);
 }
 
 .button:hover{
@@ -286,9 +287,9 @@ body{
     background-color: rgba(255, 255, 255, .1);
     border-radius: 30% 70% 70% 30% / 63% 30% 70% 37% ;
     /* border: #03a9f4 2px solid;  */
-    box-shadow: inset 10px 25px 30px rgba(127, 198, 221, 0.5),
-                    15px 15px 25px rgba(136, 199, 220, 0.5),
-                    20px 20px 30px rgba(207, 240, 251, 0.5),
+    box-shadow: inset 10px 25px 30px rgba(133, 206, 231, 0.5),
+                    15px 15px 25px rgba(144, 210, 232, 0.5),
+                    20px 20px 30px rgba(222, 247, 255, 0.5),
                 inset -15px -15px 20px rgba(255, 255, 255, 0.8);
     width: 1.1rem;
     height: 1.1rem;
