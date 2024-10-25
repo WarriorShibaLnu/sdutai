@@ -1,0 +1,13 @@
+#page2{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+
+}
+
+.ours{
+    position: absolute;
+    width: 100px;
+    height: 200px;
+    background-color: red;
+}
